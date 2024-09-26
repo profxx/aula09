@@ -1,0 +1,38 @@
+.caixa-principal{
+    background-color: orange;
+    height: 400px;
+    width: 600px;
+    margin: 50px;
+    border-radius: 50px;
+}
+.principal{
+    display: flex;
+}
+.direita{
+    display: flex;
+    flex-direction: column;
+}
+.retangulo-cima{
+    background-color: blue;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    height: 100px;
+    width: 400px;
+}
+.retangulo-baixo{
+    background-color: blue;
+    height: 280px;
+    width: 400px;
+}
+.bolinha{
+    background-color: blueviolet;
+    height: 70px;
+    width: 70px;
+    margin: 10px;
+    margin-right: 40px;
+    border-radius: 50%;
+}
+.bolas{
+    display: flex;
+    margin-left: 60px;
+}
